@@ -1,0 +1,10 @@
+.idea
+*.key
+*.pem
+*.crt
+file
+kaadda
+kaadda-init
+main.exe
+main
+*.db
